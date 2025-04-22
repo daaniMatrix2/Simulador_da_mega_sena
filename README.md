@@ -2,7 +2,7 @@
 
 Um simulador interativo da Mega Sena desenvolvido com Python e Flet para geração e análise de jogos, com interface gráfica amigável e funcionalidades avançadas.
 
-![Screenshot do Simulador](https://github.com/daaniMatrix2/Simulador_da_mega_sena/blob/main/jogo%20da%20mega%20flet.jpg) <!-- Adicione sua screenshot aqui -->
+![Screenshot do Simulador](./mega_sena_simulador.jpg) <!-- Adicione sua screenshot aqui -->
 
 ## 🚀 Recursos Principais
 - **Geração de Jogos Personalizados**
