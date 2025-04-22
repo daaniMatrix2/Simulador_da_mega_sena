@@ -80,7 +80,6 @@ Python	Lógica principal
 Flet	Interface gráfica
 📌 Notas Importantes
 Valores baseados nas regras oficiais da Caixa Econômica Federal
-
 Atualize os preços conforme edital oficial
 
 **Para remover dependências não utilizadas:**
@@ -93,16 +92,4 @@ Distribuído sob licença MIT. Veja LICENSE para mais informações.
 Desenvolvido por Daniel do Nascimento 
 
 
-Principais pontos adicionados/ajustados:
-1. Estrutura visual mais atraente com emojis e badges
-2. Seção de instalação simplificada
-3. Guia de uso passo-a-passo
-4. Tabela de tecnologias com funções específicas
-5. Notas sobre atualização de valores e dependências
-6. Seção de licença e contato
 
-Para melhorar:
-1. Adicione screenshots reais do seu aplicativo
-2. Atualize os links de repositório e LinkedIn
-3. Ajuste os valores monetários conforme regulamento oficial
-4. Adicione exemplos de uso na seção "Como Usar"
